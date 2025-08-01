@@ -89,11 +89,11 @@ I craft **scalable, interactive, and visually stunning** web and mobile apps tha
 
 ## 💻 Skill Proficiency
 
-![React](https://progress-bar.dev/95/?title=React&color=61DAFB)
-![Node.js](https://progress-bar.dev/90/?title=Node.js&color=339933)
-![MongoDB](https://progress-bar.dev/88/?title=MongoDB&color=47A248)
-![React Native](https://progress-bar.dev/85/?title=React+Native&color=00D4FF)
-![AWS](https://progress-bar.dev/80/?title=AWS&color=232F3E)
+<img src="https://img.shields.io/badge/React-95%25-61DAFB?style=flat&logo=react" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-90%25-339933?style=flat&logo=node.js" alt="Node.js" />
+<img src="https://img.shields.io/badge/MongoDB-88%25-47A248?style=flat&logo=mongodb" alt="MongoDB" />
+<img src="https://img.shields.io/badge/React_Native-85%25-00D4FF?style=flat&logo=react" alt="React Native" />
+<img src="https://img.shields.io/badge/AWS-80%25-232F3E?style=flat&logo=amazon-aws" alt="AWS" />
 
 ---
 
