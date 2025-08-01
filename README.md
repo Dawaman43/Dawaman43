@@ -89,12 +89,11 @@ I craft **scalable, interactive, and visually stunning** web and mobile apps tha
 
 ## 💻 Skill Proficiency
 
-<!-- Using GitHub's native progress bar syntax -->
-![React](https://progress-bar.dev/95/?title=React&color=00D4FF)
-![Node.js](https://progress-bar.dev/90/?title=Node.js&color=FF6F61)
-![MongoDB](https://progress-bar.dev/88/?title=MongoDB&color=7FFF00)
-![React Native](https://progress-bar.dev/85/?title=React+Native&color=FFD700)
-![AWS](https://progress-bar.dev/80/?title=AWS&color=FF4500)
+![React](https://progress-bar.dev/95/?title=React&color=61DAFB)
+![Node.js](https://progress-bar.dev/90/?title=Node.js&color=339933)
+![MongoDB](https://progress-bar.dev/88/?title=MongoDB&color=47A248)
+![React Native](https://progress-bar.dev/85/?title=React+Native&color=00D4FF)
+![AWS](https://progress-bar.dev/80/?title=AWS&color=232F3E)
 
 ---
 
