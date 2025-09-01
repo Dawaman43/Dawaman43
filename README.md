@@ -119,21 +119,6 @@ I craft **scalable, interactive, and visually stunning** web and mobile apps tha
 
 ---
 
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dawaman43&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=6)
-
-</div>
-
-- **Certified AWS Cloud Practitioner** – Amazon Web Services (2024)  
-- **React Native Developer Certification** – Coursera (2023)  
-- **Top 1% Contributor** – GitHub Open-Source Community (2024)  
-- **Hackathon Winner** – Ethiopia Tech Summit 2023  
-- **Published Article** – "Scaling MERN Apps with Serverless" on Dev.to  
-
----
 
 ## 📊 GitHub Insights
 
