@@ -133,7 +133,7 @@ If my projects inspire you, consider supporting:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen)](https://dawitportfoli.netlify.app/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Dawaman43)  
-[![Email](https://img.shields.io/badge/Email-dawit@example.com-blue)](mailto:dawit@example.com)  
+[![Email](https://img.shields.io/badge/Email-dawitworkujima@gmail.com-blue)](mailto:dawitworkujima@gmail.com)  
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?logo=telegram)](https://t.me/daw9t)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin)](https://linkedin.com/in/dawit-worku-jima)  
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?logo=twitter)](https://twitter.com/dawaman43)  
