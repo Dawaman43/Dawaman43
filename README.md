@@ -30,6 +30,26 @@ I'm a passionate **Software Engineering student** at **Adama Science and Technol
   <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,git,docker&perline=5" />
 </div>
 
+### 📊 Skills Proficiency
+<div align="center">
+
+| Skill | Level | Progress Bar |
+|-------|-------|--------------|
+| **React** | 95% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#4CAF50;width:95%;height:100%;border-radius:10px;"></div></div> |
+| **Next.js** | 85% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#2196F3;width:85%;height:100%;border-radius:10px;"></div></div> |
+| **TypeScript** | 90% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#007ACC;width:90%;height:100%;border-radius:10px;"></div></div> |
+| **Node.js** | 85% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#43853D;width:85%;height:100%;border-radius:10px;"></div></div> |
+| **Tailwind CSS** | 80% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#38B2AC;width:80%;height:100%;border-radius:10px;"></div></div> |
+| **MongoDB** | 85% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#4EA94B;width:85%;height:100%;border-radius:10px;"></div></div> |
+| **Express** | 80% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#404D59;width:80%;height:100%;border-radius:10px;"></div></div> |
+| **Git** | 95% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#F05032;width:95%;height:100%;border-radius:10px;"></div></div> |
+| **Docker** | 70% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#2496ED;width:70%;height:100%;border-radius:10px;"></div></div> |
+| **MySQL** | 80% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#00000F;width:80%;height:100%;border-radius:10px;"></div></div> |
+| **Bootstrap** | 75% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#563D7C;width:75%;height:100%;border-radius:10px;"></div></div> |
+| **Jest** | 70% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#C21325;width:70%;height:100%;border-radius:10px;"></div></div> |
+
+</div>
+
 ---
 
 ## 📂 Featured Projects
