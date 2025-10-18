@@ -39,27 +39,20 @@ I'm a passionate **Software Engineering student** at **Adama Science and Technol
 
 | Skill | Level | Progress Bar |
 |-------|-------|--------------|
-| **React** | 95% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#4CAF50;width:95%;height:100%;border-radius:10px;animation:progress 2s ease-in-out;"></div></div> |
-| **Next.js** | 85% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#2196F3;width:85%;height:100%;border-radius:10px;animation:progress 2s ease-in-out 0.2s;"></div></div> |
-| **TypeScript** | 90% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#007ACC;width:90%;height:100%;border-radius:10px;animation:progress 2s ease-in-out 0.4s;"></div></div> |
-| **Node.js** | 85% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#43853D;width:85%;height:100%;border-radius:10px;animation:progress 2s ease-in-out 0.6s;"></div></div> |
-| **Tailwind CSS** | 80% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#38B2AC;width:80%;height:100%;border-radius:10px;animation:progress 2s ease-in-out 0.8s;"></div></div> |
-| **MongoDB** | 85% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#4EA94B;width:85%;height:100%;border-radius:10px;animation:progress 2s ease-in-out 1s;"></div></div> |
-| **Express** | 80% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#404D59;width:80%;height:100%;border-radius:10px;animation:progress 2s ease-in-out 1.2s;"></div></div> |
-| **Git** | 95% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#F05032;width:95%;height:100%;border-radius:10px;animation:progress 2s ease-in-out 1.4s;"></div></div> |
-| **Docker** | 70% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#2496ED;width:70%;height:100%;border-radius:10px;animation:progress 2s ease-in-out 1.6s;"></div></div> |
-| **MySQL** | 80% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#00000F;width:80%;height:100%;border-radius:10px;animation:progress 2s ease-in-out 1.8s;"></div></div> |
-| **Bootstrap** | 75% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#563D7C;width:75%;height:100%;border-radius:10px;animation:progress 2s ease-in-out 2s;"></div></div> |
-| **Jest** | 70% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#C21325;width:70%;height:100%;border-radius:10px;animation:progress 2s ease-in-out 2.2s;"></div></div> |
-| **GraphQL** | 65% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#E10098;width:65%;height:100%;border-radius:10px;animation:progress 2s ease-in-out 2.4s;"></div></div> |
-| **Python** | 60% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#3776AB;width:60%;height:100%;border-radius:10px;animation:progress 2s ease-in-out 2.6s;"></div></div> |
-
-<style>
-@keyframes progress {
-  from { width: 0; }
-  to { width: var(--width); }
-}
-</style>
+| **React** | 95% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#4CAF50;width:95%;height:100%;border-radius:10px;"></div></div> |
+| **Next.js** | 85% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#2196F3;width:85%;height:100%;border-radius:10px;"></div></div> |
+| **TypeScript** | 90% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#007ACC;width:90%;height:100%;border-radius:10px;"></div></div> |
+| **Node.js** | 85% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#43853D;width:85%;height:100%;border-radius:10px;"></div></div> |
+| **Tailwind CSS** | 80% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#38B2AC;width:80%;height:100%;border-radius:10px;"></div></div> |
+| **MongoDB** | 85% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#4EA94B;width:85%;height:100%;border-radius:10px;"></div></div> |
+| **Express** | 80% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#404D59;width:80%;height:100%;border-radius:10px;"></div></div> |
+| **Git** | 95% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#F05032;width:95%;height:100%;border-radius:10px;"></div></div> |
+| **Docker** | 70% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#2496ED;width:70%;height:100%;border-radius:10px;"></div></div> |
+| **MySQL** | 80% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#00000F;width:80%;height:100%;border-radius:10px;"></div></div> |
+| **Bootstrap** | 75% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#563D7C;width:75%;height:100%;border-radius:10px;"></div></div> |
+| **Jest** | 70% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#C21325;width:70%;height:100%;border-radius:10px;"></div></div> |
+| **GraphQL** | 65% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#E10098;width:65%;height:100%;border-radius:10px;"></div></div> |
+| **Python** | 60% | <div style="background-color:#e0e0e0;border-radius:10px;overflow:hidden;width:200px;height:10px;"><div style="background-color:#3776AB;width:60%;height:100%;border-radius:10px;"></div></div> |
 
 </div>
 
@@ -89,7 +82,11 @@ Feel free to fork, contribute, or star these repos—I'm always open to feedback
 
 ### 🐍 GitHub Contribution Snake
 <div align="center">
-  <img src="https://github.com/Dawaman43/Dawaman43/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dawaman43/Dawaman43/blob/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dawaman43/Dawaman43/blob/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://github.com/Dawaman43/Dawaman43/blob/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
 ---
@@ -115,10 +112,6 @@ Feel free to fork, contribute, or star these repos—I'm always open to feedback
 ## 🎓 Education & Learning
 
 ### Timeline
-<div align="center">
-  <img src="https://github.com/Dawaman43/Dawaman43/blob/main/timeline.svg" alt="Experience Timeline" /> <!-- Assume a timeline SVG or use a table -->
-</div>
-
 | Period | Milestone | Details |
 |--------|-----------|---------|
 | 2023 – Present | **Adama Science and Technology University** | *Bachelor's in Software Engineering*<br>*Relevant Coursework:* Data Structures, Algorithms, Web Development, Database Systems, Software Design Patterns<br>*GPA:* 3.8/4.0 |
@@ -189,8 +182,8 @@ I'm excited about open-source contributions, hackathons, and freelance gigs in w
 
 ### 💰 Support My Work
 If my projects inspire you, consider supporting:
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-Me-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dawaman43)
-[![BuyMeACoffee](https://img.shields.io/badge/BuyMeACoffee-Support-Me-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dawaman43)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dawaman43)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dawaman43)
 
 ---
 
