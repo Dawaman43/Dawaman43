@@ -6,11 +6,11 @@ I'm a passionate **Software Engineering student** at **Adama Science and Technol
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Bootstrap
 - **Backend:** Node.js, Express
 - **Database:** MongoDB, MySQL
 - **Version Control:** Git, GitHub
-- **Tools:** VS Code, Postman, Docker
+- **Tools:** VS Code, Postman, Docker, Vercel
 
 ---
 
@@ -27,9 +27,11 @@ Feel free to explore these projects to see my work in action.
 
 ## 📊 GitHub Stats
 
-![Dawit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawaman43&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+<!-- Replace the URLs below with your Vercel deployment URLs for private contributions -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawaman43&layout=compact&langs_count=8&theme=radical)
+![Dawit's GitHub stats](https://github-readme-stats-beta-puce-95.vercel.app/api?username=Dawaman43&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats-beta-puce-95.vercel.app/api/top-langs/?username=Dawaman43&layout=compact&langs_count=8&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dawaman43&theme=radical)
 
@@ -51,4 +53,4 @@ Feel free to explore these projects to see my work in action.
 
 ---
 
-If you'd like to collaborate on projects or have any questions, feel free to reach out!
+If you'd like to collaborate on projects or have any questions, feel free to reach out! 🚀
