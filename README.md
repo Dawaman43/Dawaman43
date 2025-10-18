@@ -47,11 +47,12 @@ A passionate **Full-Stack Developer** from Ethiopia, turning ideas into impactfu
 ---
 
 ## 📊 GitHub Stats
-[![Dawit's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawit-808&show_icons=true&theme=radical)](https://github.com/dawit-808)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawit-808&layout=compact&theme=radical)](https://github.com/dawit-808)  
+[![Dawit's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawit-808&show_icons=true&theme=radical&count_private=true)](https://github.com/dawit-808)  
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dawit-808&theme=radical)](https://github.com/dawit-808)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawit-808&layout=compact&theme=radical&count_private=true)](https://github.com/dawit-808)  
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dawit-808&theme=radical)](https://github.com/dawit-808)
 
 ---
 
