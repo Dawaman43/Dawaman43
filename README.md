@@ -137,7 +137,7 @@ If my projects inspire you, consider supporting:
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?logo=telegram)](https://t.me/daw9t)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin)](https://linkedin.com/in/dawit-worku-jima)  
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?logo=twitter)](https://twitter.com/dawaman43)  
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram)](https://instagram.com/da.wit) 
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram)](https://instagram.com/da.wit.kun) 
 </div>
 
 ### 📬 Quick Contact Form
