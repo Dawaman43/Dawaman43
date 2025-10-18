@@ -20,14 +20,15 @@ Here are some of the projects I've worked on:
 
 - **[Portfolio Website](https://dawitportfoli.netlify.app/):** A personal portfolio showcasing my skills and projects.
 - **[E-commerce Website](https://github.com/Dawaman43/e-commerce):** A full-stack e-commerce application with user authentication and product management.
+- **[GitHub Readme Stats](https://github.com/Dawaman43/github-readme-stats):** A project to display GitHub stats on your profile.
+- **[Weather App](https://github.com/Dawaman43/weather-app):** A weather forecasting application using React and the OpenWeather API.
+- **[Task Manager](https://github.com/Dawaman43/task-manager):** A task management application built with Node.js and MongoDB.
 
 Feel free to explore these projects to see my work in action.
 
 ---
 
 ## 📊 GitHub Stats
-
-<!-- Replace the URLs below with your Vercel deployment URLs for private contributions -->
 
 ![Dawit's GitHub stats](https://github-readme-stats-beta-puce-95.vercel.app/api?username=Dawaman43&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
