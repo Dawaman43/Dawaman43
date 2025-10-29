@@ -64,7 +64,8 @@ Feel free to fork, contribute, or star these repos—I'm always open to feedback
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawaman43&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=6ee7b7&text_color=586069)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dawaman43&theme=radical&hide_border=true&background=0d1117&stroke=586069&ring=6ee7b7&fire=6ee7b7&currStreakLabel=6ee7b7)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Dawaman43&theme=radical&hide_border=true&background=0d1117&stroke=586069&ring=6ee7b7&fire=6ee7b7&currStreakLabel=6ee7b7)
+
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dawaman43&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
