@@ -1,100 +1,83 @@
 <div align="center">
 
-<!-- Header with Sound Wave Animation -->
+<!-- HERO GLITCH -->
+<img src="https://i.ibb.co.com/7zq3vP8/naruto-matrix-rain-8k.gif" alt="Matrix + Rasengan overload" width="100%"/>
 
-<img src="./assets/Sound voice waves.gif" width="100%" height="60" style="object-fit: cover;" alt="Audio Waveform"/>
+<br><br>
 
-<!-- Typing Effect Title -->
-
+<!-- NAME THAT BREAKS REALITY -->
 <h1>
-<a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D35%26pause%3D1000%26color%3DF75C7E%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHi,%2BI%27m%2BDawaman43%3BI%2BBuild%2BDigital%2BRealms%3BWelcome%2Bto%2Bmy%2BHub" alt="Typing SVG" />
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=95&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=1400&height=220&lines=DAWIT+WORKU;CODE+NINJA+%E2%9A%A1;RAMEN+OVERLORD+%F0%9F%8D%9C;REALITY+HACKER+%F0%9F%92%A5;ROOT%40UNIVERSE:~%23" />
 </h1>
 
-<!-- Social Badges / Quick Links -->
-
 <p>
-<a href="https://github.com/Dawaman43">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-%2523121011.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub">
-</a>
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://linkedin.com/in/yourprofile">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&duration=4000&color=00FFFF&center=true&vCenter=true&lines=CHAKRA+OVERCLOCKED;UNLIMITED+RAMEN+WORKS;GODMODE+%3D+TRUE;THE+MATRIX+IS+MY+PLAYGROUND" />
 </p>
-</div>
 
-<br />
+<br><br>
 
-<!-- Main Content Grid -->
+<!-- PORTALS TO OTHER DIMENSIONS -->
+<a href="https://github.com/Dawaman43"><img src="https://img.shields.io/badge/GITHUB%20NEXUS-000000?style=for-the-badge&logo=github&logoColor=F75C7E" height="65"/></a>　
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/SUMMON%20ME-FF0066?style=for-the-badge&logo=gmail&logoColor=white" height="65"/></a>　
+<a href="https://linkedin.com/in/dawit-worku"><img src="https://img.shields.io/badge/ALLIANCE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="65"/></a>
 
-<table>
-<tr>
+<br><br><br>
+
+<!-- DUAL GOD MODE ACTIVATED -->
+<table><tr>
+<td align="center" width="50%">
+  <img src="https://i.ibb.co.com/5Tp0sN7/naruto-ramen-god.gif" width="440"/>
+  <h2><span style="color:#F75C7E; text-shadow: 0 0 30px #F75C7E; font-size:2.2em">RAMEN NO KAMI</span></h2>
+  <b>UNLIMITED RAMEN WORKS</b>
+</td>
+<td align="center" width="50%">
+  <img src="https://i.ibb.co.com/8xYgJ7Q/hacker-god.gif" width="480"/>
+  <h2><span style="color:#00FFFF; text-shadow: 0 0 30px #00FFFF; font-size:2.2em">CODE SOVEREIGN</span></h2>
+  <b><code>$ godmode = true;</code></b>
+</td>
+</tr></table>
+
+<br><br><br>
+
+<!-- FORBIDDEN SCROLLS -->
+<h1>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0dfc8567f0fa.gif" width="100"/>
+  FORBIDDEN JUTSU ARSENAL
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0dfc8567f0fa.gif" width="100"/>
+</h1>
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,nodejs,express,nestjs,python,rust,go,solidity,docker,kubernetes,aws,gcp,prisma,postgres,mongodb,tailwind,redux,graphql,firebase,flutter,electron,threejs,webpack,supabase,redis,linux,git,github,vscode,figma&perline=16&theme=dark" />
+
+<br><br><br>
+
+<!-- STATS THAT SUMMON ELDERS -->
+<table><tr>
 <td width="50%" valign="top">
-<h2>⚡ About Me</h2>
-<br />
-<p>
-Yo! I'm a developer who turns caffeine into code and bugs into features. When I'm not in the terminal, I'm probably exploring new tech or watching anime.
-</p>
-<br />
-<ul>
-<li>🔭 I’m currently working on <b>Next Level Web Apps</b></li>
-<li>🌱 I’m currently learning <b>Rust & WebAssembly</b></li>
-<li>🍥 Mood: <b>Always hungry for ramen & knowledge</b></li>
-<li>💬 Ask me about <b>React, Python, and UI Design</b></li>
-<li>⚡ Fun fact: <b>I code better with Lo-Fi beats</b></li>
-</ul>
-<br />
-<!-- Developer GIF Asset -->
-<div align="center">
-<img src="./assets/Developer.gif" width="80%" alt="Coding Gif"/>
-</div>
+
+<!-- Streak Beast -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dawaman43&theme=dracula&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=F75C7E" alt="Streak" />
+
+<!-- Trophy Hoard -->
+<img src="https://github-profile-trophy.vercel.app/?username=Dawaman43&theme=dracula&no-frame=true&no-ie=true&margin-w=15&row=1" alt="Trophies" />
+
 </td>
-<td width="50%" valign="center" align="center">
-<!-- Naruto Asset as Main Visual -->
-<img src="./assets/Naruto eating ramen.gif" width="100%" style="border-radius: 10px;" alt="Naruto Eating Ramen"/>
-<br /><br />
-<h3>🚀 Tech Stack</h3>
-<p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/javascript-%2523323330.svg%3Fstyle%3Dflat-square%26logo%3Djavascript%26logoColor%3D%2523F7DF1E" alt="JS">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/python-3670A0%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dffdd54" alt="Python">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/react-%252320232a.svg%3Fstyle%3Dflat-square%26logo%3Dreact%26logoColor%3D%252361DAFB" alt="React">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/node.js-6DA55F%3Fstyle%3Dflat-square%26logo%3Dnode.js%26logoColor%3Dwhite" alt="Node">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/html5-%2523E34F26.svg%3Fstyle%3Dflat-square%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/css3-%25231572B6.svg%3Fstyle%3Dflat-square%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/git-%2523F05033.svg%3Fstyle%3Dflat-square%26logo%3Dgit%26logoColor%3Dwhite" alt="Git">
-</p>
+<td width="50%" valign="top">
+
+<!-- Top Langs (NOW FIXED - Raw & Amp NUKED) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawaman43&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=00FFFF&langs_count=10&hide=jupyter%20notebook,html,css" alt="Top Languages" />
+
+<!-- Snake (TEMP PLACEHOLDER - See Setup Below) -->
+<img src="https://github.com/Dawaman43/Dawaman43/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake (Setup Required)" />
+
 </td>
-</tr>
-</table>
+</tr></table>
 
-<br />
+<!-- Activity Vortex -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dawaman43&theme=dracula&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=00FFFF&area=true&area_color=00FFFF20" width="100%" alt="Activity Graph"/>
 
-<!-- Stats Dashboard -->
+<br><br>
 
-<h2>📊 The Stats</h2>
-<div align="center">
-<br />
-<table align="center">
-<tr>
-<td>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDawaman43%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3DF75C7E%26icon_color%3DF8D866" alt="Stats" />
-</td>
-<td>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DDawaman43%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3DF75C7E%26text_color%3DFFFFFF" alt="Languages" />
-</td>
-</tr>
-</table>
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DDawaman43%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117%26ring%3DF75C7E%26fire%3DF75C7E%26currStreakLabel%3DF75C7E" alt="Streak" />
-</div>
+<!-- SEAL OF ETERNITY (PERFECT FIT) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24,0,18,30,11,22&height=280&section=footer&text=DAWIT%20WAS%20HERE%20∞&fontSize=90&fontColor=fff&animation=twinkling&stroke=F75C7E&strokeWidth=6"/>
 
-<br />
-
-<!-- Footer Decoration -->
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D100%26section%3Dfooter%26fontSize%3D90" width="100%"/>
 </div>
