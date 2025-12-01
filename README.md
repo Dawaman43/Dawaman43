@@ -57,20 +57,7 @@
 <!-- Streak Beast -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dawaman43&theme=dracula&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=F75C7E" alt="Streak" />
 
-<!-- Trophy Hoard -->
-<img src="https://github-profile-trophy.vercel.app/?username=Dawaman43&theme=dracula&no-frame=true&no-ie=true&margin-w=15&row=1" alt="Trophies" />
 
-</td>
-<td width="50%" valign="top">
-
-<!-- Top Langs (NOW FIXED - Raw & Amp NUKED) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawaman43&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=00FFFF&langs_count=10&hide=jupyter%20notebook,html,css" alt="Top Languages" />
-
-<!-- Snake (TEMP PLACEHOLDER - See Setup Below) -->
-<img src="https://github.com/Dawaman43/Dawaman43/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake (Setup Required)" />
-
-</td>
-</tr></table>
 
 <!-- Activity Vortex -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dawaman43&theme=dracula&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=00FFFF&area=true&area_color=00FFFF20" width="100%" alt="Activity Graph"/>
