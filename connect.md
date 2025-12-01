@@ -1,28 +1,26 @@
-
+<!-- connect.md -->
 <div align="center">
 
-# Send a Messenger Hawk
+<h2>🌐 Let's Connect & Build Something Epic</h2>
 
-<img src="https://raw.githubusercontent.com/Dawaman43/Dawaman43/main/assets/lottie/Naruto%20eating%20ramen.json" width="280"/>
+<br/>
 
-<br>
-
-**Let’s talk code, anime, or the best injera spots in Addis**
-
-<a href="mailto:dawitworkujima@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://twitter.com/dawitthegenius">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/dawit-worku-jima">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="45" style="transition:0.3s; box-shadow:0 0 20px #0A66C2; border-radius:12px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
 </a>
 
-<br><br>
+<a href="https://twitter.com/your-twitter" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" height="45" style="transition:0.3s; box-shadow:0 0 20px #1DA1F2; border-radius:12px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+</a>
 
-<img src="https://raw.githubusercontent.com/Dawaman43/Dawaman43/main/assets/lottie/Developer.json" width="300"/>
+<a href="mailto:your.email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF3333?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF3333" height="45" style="transition:0.3s; box-shadow:0 0 20px #FF3333; border-radius:12px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+</a>
 
-<i>“If you don’t like your destiny, don’t accept it. Change it.”</i>
+<br/><br/>
+
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3eSGI/giphy.gif" width="400"/>
+
+<p><i>Always down for collabs, open-source, or just nerding out about Next.js vs Remix</i></p>
 
 </div>
