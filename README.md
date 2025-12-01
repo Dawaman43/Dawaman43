@@ -1,28 +1,4 @@
-Here’s the **100% working fix** that makes your 4 Lottie animations appear instantly (no more broken images or blank spaces).
 
-The only thing breaking everything was the **space in the file names**.  
-GitHub raw URLs **cannot handle spaces** unless they are encoded as `%20`. You had:
-
-```
-Naruto eating ramen.json   → broken
-Web development.json       → broken
-```
-
-### Step-by-step (30 seconds)
-
-1. In your repo, go to the `assets/lottie/` folder  
-2. Rename the 4 files **exactly** like this (no spaces, no capitals except first letter):
-
-```
-NarutoEatingRamen.json
-WebDevelopment.json
-SoundVoiceWaves.json
-Developer.json
-```
-
-3. Replace your current `README.md` with this **final, guaranteed-working version**:
-
-```md
 <div align="center">
 
 <!-- Naruto eating ramen -->
@@ -35,62 +11,55 @@ Developer.json
 <br>
 
 <!-- Web development animation -->
-<img src="https://raw.githubusercontent.com/Dawaman43/Dawaman43/main/assets/lottie/WebDevelopment.json" width="750" alt="Web dev"/>
+<img src="https://raw.githubusercontent.com/Dawaman43/Dawaman43/main/Web%20development.json" width="800"/>
 
-<!-- Sound waves pulsing like chakra -->
-<img src="https://raw.githubusercontent.com/Dawaman43/Dawaman43/main/assets/lottie/SoundVoiceWaves.json" width="650" alt="Sound waves"/>
+<!-- Sound waves -->
+<img src="https://raw.githubusercontent.com/Dawaman43/Dawaman43/main/Sound%20voice%20waves.json" width="700"/>
 
 <br><br>
 
 ### ዳዊት • Dawit • Dawaman43
 **Rank:** Eternal Genin → Jonin (loading…)  
-**Village:** Remote Konoha, Ethiopian Highlands (coffee + injera powered)  
-**Nindo:** Never go back on my word — especially on pull requests
+**Village:** Remote Konoha in the Ethiopian Highlands  
+**Chakra:** Coffee + Injera + Pure Stubbornness
 
 ```yaml
-Current Jutsu:
+Jutsu Arsenal:
   • TypeScript Rasengan
   • Next.js 15 Shadow Clone
   • Supabase + Prisma Scrolls
   • Tailwind no Jutsu
-  • Deploy at 4 AM Release
+  • 4 AM Deploy Release
 ```
 
 <br>
 
-<!-- Developer in the zone -->
-<img src="https://raw.githubusercontent.com/Dawaman43/Dawaman43/main/assets/lottie/Developer.json" width="360" alt="Developer"/>
-<p><i>Me when the bug finally disappears after 83 console.logs</i></p>
+<!-- Developer coding -->
+<img src="https://raw.githubusercontent.com/Dawaman43/Dawaman43/main/Developer.json" width="380"/>
+<p><i>Me when the bug finally dies</i></p>
 
 <br><br>
 
-<!-- Naruto ramen + sound waves again because it’s perfect -->
-<img src="https://raw.githubusercontent.com/Dawaman43/Dawaman43/Dawaman43/main/assets/lottie/NarutoEatingRamen.json" width="240"/>
-<img src="https://raw.githubusercontent.com/Dawaman43/Dawaman43/main/assets/lottie/SoundVoiceWaves.json" width="380"/>
+<img src="https://raw.githubusercontent.com/Dawaman43/Dawaman43/main/Naruto%20eating%20ramen.json" width="260"/>
+<img src="https://raw.githubusercontent.com/Dawaman43/Dawaman43/main/Sound%20voice%20waves.json" width="400"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Dawaman43&label=Shinobi%20visitors&color=ff5f1f&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Dawaman43&label=Shinobi%20visitors&color=ff5f1f&style=for-the-badge"/>
 
 <br><br>
 
-**Open for missions • pair-programming • ramen reviews • weird ideas**
+**Open for missions • pair-programming • ramen • ramen**
 
 <br>
 
-<a href="mailto:your.email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Dawaman43/Dawaman43/main/assets/lottie/WebDevelopment.json" width="600"/>
+<img src="https://raw.githubusercontent.com/Dawaman43/Dawaman43/main/Web%20development.json" width="650"/>
 
 <br>
 
@@ -98,6 +67,6 @@ Current Jutsu:
 
 <br><br>
 
-**Believe it!** (ramen) (highlands)
+**Believe it!**
 
 </div>
