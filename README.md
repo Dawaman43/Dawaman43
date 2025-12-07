@@ -18,7 +18,6 @@
 
 <!-- PORTALS TO OTHER DIMENSIONS -->
 <a href="https://github.com/Dawaman43"><img src="https://img.shields.io/badge/GITHUB%20NEXUS-000000?style=for-the-badge&logo=github&logoColor=F75C7E" height="65"/></a>　
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/SUMMON%20ME-FF0066?style=for-the-badge&logo=gmail&logoColor=white" height="65"/></a>　
 <a href="https://linkedin.com/in/dawit-worku"><img src="https://img.shields.io/badge/ALLIANCE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="65"/></a>
 
 <br><br><br>
@@ -57,7 +56,16 @@
 <!-- Streak Beast -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dawaman43&theme=dracula&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=F75C7E" alt="Streak" />
 
+</td>
+<td width="50%" valign="top">
 
+<!-- Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Dawaman43&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=00FFFF&text_color=FFFFFF" alt="GitHub Stats" />
+
+</td>
+</tr></table>
+
+<br>
 
 <!-- Activity Vortex -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dawaman43&theme=dracula&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=00FFFF&area=true&area_color=00FFFF20" width="100%" alt="Activity Graph"/>
