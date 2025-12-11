@@ -58,13 +58,7 @@ Developer focused on building reliable tools and web applications. Areas of inte
 
 ---
 
-## Featured Projects
 
-<!-- FEATURED:START -->
-
-Placeholder — run the updater to generate featured entries.
-
-<!-- FEATURED:END -->
 
 ## Tech & Tools
 
