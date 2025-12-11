@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="glow" x1="0" x2="1">
+      <stop offset="0%" stop-color="#F75C7E"/>
+      <stop offset="50%" stop-color="#00FFFF"/>
+      <stop offset="100%" stop-color="#F75C7E"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="11" width="1200" height="2" fill="url(#glow)">
+    <animate attributeName="x" values="-1200;0;-1200" dur="8s" repeatCount="indefinite"/>
+  </rect>
+</svg>

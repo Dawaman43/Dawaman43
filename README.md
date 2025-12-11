@@ -1,70 +1,111 @@
-<div align="center">
+<!--
+  Profile README for GitHub user: Dawaman43
+  Clean, non-conversational content only. No chat transcripts included.
+-->
 
-<!-- HERO GLITCH -->
-<img src="https://i.ibb.co.com/7zq3vP8/naruto-matrix-rain-8k.gif" alt="Matrix + Rasengan overload" width="100%"/>
-
-<br><br>
-
-<!-- NAME THAT BREAKS REALITY -->
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=95&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=1400&height=220&lines=DAWIT+WORKU;CODE+NINJA+%E2%9A%A1;RAMEN+OVERLORD+%F0%9F%8D%9C;REALITY+HACKER+%F0%9F%92%A5;ROOT%40UNIVERSE:~%23" />
-</h1>
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&duration=4000&color=00FFFF&center=true&vCenter=true&lines=CHAKRA+OVERCLOCKED;UNLIMITED+RAMEN+WORKS;GODMODE+%3D+TRUE;THE+MATRIX+IS+MY+PLAYGROUND" />
+  <img src="assets/banner-animated.svg" alt="banner" width="100%" />
 </p>
 
-<br><br>
+<p align="center">
+  <img src="https://github.com/Dawaman43.png" alt="avatar" width="140" style="border-radius:50%" />
+  <h1 align="center">Hey 👋, I'm Dawit (Dawaman43)</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&width=520&lines=Building+reliable+tools+and+web+apps;Open+source+%E2%9D%A4%EF%B8%8F+Automation+%F0%9F%9A%80;Clean+APIs%2C+robust+systems%2C+happy+users" alt="typing intro" />
 
-<!-- PORTALS TO OTHER DIMENSIONS -->
-<a href="https://github.com/Dawaman43"><img src="https://img.shields.io/badge/GITHUB%20NEXUS-000000?style=for-the-badge&logo=github&logoColor=F75C7E" height="65"/></a>　
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/SUMMON%20ME-FF0066?style=for-the-badge&logo=gmail&logoColor=white" height="65"/></a>　
-<a href="https://linkedin.com/in/dawit-worku"><img src="https://img.shields.io/badge/ALLIANCE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="65"/></a>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen" alt="Open to work" />
+    <img src="https://img.shields.io/github/followers/Dawaman43?label=Followers&style=social" alt="Followers" />
+    <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Automation%20%7C%20DevOps-blue" alt="Focus" />
+    <img src="https://img.shields.io/badge/GODMODE-TRUE-ff00ff?logo=arduino&logoColor=white" alt="GODMODE" />
+  </p>
 
-<br><br><br>
+  <p align="center">
+    <a href="https://github.com/Dawaman43"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+    <a href="mailto:yourname@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+    <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  </p>
+</p>
 
-<!-- DUAL GOD MODE ACTIVATED -->
-<table><tr>
-<td align="center" width="50%">
-  <img src="https://i.ibb.co.com/5Tp0sN7/naruto-ramen-god.gif" width="440"/>
-  <h2><span style="color:#F75C7E; text-shadow: 0 0 30px #F75C7E; font-size:2.2em">RAMEN NO KAMI</span></h2>
-  <b>UNLIMITED RAMEN WORKS</b>
-</td>
-<td align="center" width="50%">
-  <img src="https://i.ibb.co.com/8xYgJ7Q/hacker-god.gif" width="480"/>
-  <h2><span style="color:#00FFFF; text-shadow: 0 0 30px #00FFFF; font-size:2.2em">CODE SOVEREIGN</span></h2>
-  <b><code>$ godmode = true;</code></b>
-</td>
-</tr></table>
+---
 
-<br><br><br>
+## About
 
-<!-- FORBIDDEN SCROLLS -->
-<h1>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0dfc8567f0fa.gif" width="100"/>
-  FORBIDDEN JUTSU ARSENAL
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0dfc8567f0fa.gif" width="100"/>
-</h1>
+Developer focused on building reliable tools and web applications. Areas of interest: backend systems, automation, and open-source collaboration.
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,nodejs,express,nestjs,python,rust,go,solidity,docker,kubernetes,aws,gcp,prisma,postgres,mongodb,tailwind,redux,graphql,firebase,flutter,electron,threejs,webpack,supabase,redis,linux,git,github,vscode,figma&perline=16&theme=dark" />
+- 🔭 Currently: personal projects and open-source contributions
+- 🌱 Learning: systems design, observability, and advanced testing
+- 👯 Interested in collaborating on: developer tools, automation, and APIs
 
-<br><br><br>
+---
 
-<!-- STATS THAT SUMMON ELDERS -->
-<table><tr>
-<td width="50%" valign="top">
+## Highlights
 
-<!-- Streak Beast -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dawaman43&theme=dracula&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=F75C7E" alt="Streak" />
+<table>
+  <tr>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dawaman43&show_icons=true&theme=radical" alt="GitHub stats" /></td>
+    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dawaman43&theme=radical" alt="Streak" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawaman43&layout=compact&theme=radical" alt="Top languages" /></td>
+    <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=Dawaman43&theme=radical&row=1&column=5" alt="Trophies" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Dawaman43&theme=dracula&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=00FFFF&area=true&area_color=00FFFF20" width="100%" alt="Activity Graph"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/Dawaman43/Dawaman43/output/github-contribution-grid-snake.svg" alt="Snake animation" /></td>
+  </tr>
+  
+</table>
 
+---
 
+## Featured Projects
 
-<!-- Activity Vortex -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dawaman43&theme=dracula&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=00FFFF&area=true&area_color=00FFFF20" width="100%" alt="Activity Graph"/>
+<!-- FEATURED:START - Do not edit directly, updated by scripts/update_featured_section.py -->
 
-<br><br>
+Placeholder — run the updater to generate featured entries.
 
-<!-- SEAL OF ETERNITY (PERFECT FIT) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24,0,18,30,11,22&height=280&section=footer&text=DAWIT%20WAS%20HERE%20∞&fontSize=90&fontColor=fff&animation=twinkling&stroke=F75C7E&strokeWidth=6"/>
+<!-- FEATURED:END -->
 
-</div>
+## Tech & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,express,react,nextjs,flutter,postgres,mongodb,redis,docker,git,linux,aws,gcp&perline=10&theme=dark" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <img src="assets/neon-divider.svg" width="70%" alt="divider" />
+</p>
+
+## Top Followers
+
+<!-- FOLLOWERS:START - Do not edit directly, updated by scripts/update_followers_section.py -->
+
+Loading top followers...
+
+<!-- FOLLOWERS:END -->
+
+---
+
+## Learning
+
+- Systems design and scalable architectures
+- Observability and distributed tracing
+- Advanced testing and CI/CD
+
+---
+
+## Contact
+
+- Email: `dawitworkujima@gmail.com`
+- LinkedIn: `https://www.linkedin.com/in/dawit-worku-jima`
+
+---
+
+## Visitor Count
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dawaman43.Dawaman43" alt="visitor badge" />
+</p>
+
+---
