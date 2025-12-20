@@ -27,3 +27,5 @@
 > I follow KISS principle which introduced by Kelly Johnson
 
 ### To contact me
+[Email](mailto:dawitworkujima@gmail.com)
+[Telegram](t.me/daw9t)
