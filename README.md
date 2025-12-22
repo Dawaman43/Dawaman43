@@ -3,9 +3,6 @@
 ### Who am i?
 > I am a software engineer who loves to build some cool stuffs
 
-### Am i a nerd
-> Yes, I am a nerd who loves coding and do coding minimum 10hr a day
-
 ### Beside coding I love
 > 1. I love to hear a music a lot
 > 2. If I get some time I will spend it in watching movies
