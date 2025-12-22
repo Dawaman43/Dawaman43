@@ -25,6 +25,16 @@
 
 ### My life philosophies
 > I follow KISS principle which introduced by Kelly Johnson
+>
+## Incase if you need it
+## GitHub Stats
+<table border="0" border="none">
+ <tr>
+    <td>
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dawaman43&count_private=true&title_color=0E8EE9&icon_color=0E8EE9&custom_title=Yohannes's's+GitHub+Stats&show_icons=true"
+   </td>
+ </tr>
+</table>
 
 ### To contact me
 [Email](mailto:dawitworkujima@gmail.com)
