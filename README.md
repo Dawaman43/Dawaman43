@@ -2,8 +2,6 @@
 
 [![My Stats](https://github-readme-stats-fast.vercel.app/api?username=Dawaman43)](https://github.com/Dawaman43/github-readme-stats-fast)
 
-[![My Streak](https://github-readme-stats-fast.vercel.app/api/streak/?username=Dawaman43)](https://github.com/Dawaman43/github-readme-stats-fast)
-
 
 
 ## I use arch btw
